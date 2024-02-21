@@ -18,11 +18,18 @@ p{
 }
 main p{
 	margin:10px;
+	margin-bottom:50px;
 }
 h2{
 	background-color:#ddd;
 	padding:5px;
 	margin:0px;
+}
+a{
+	color:#000;
+}
+a:hover{
+	color:#333;
 }
 footer{
 	position:absolute;
